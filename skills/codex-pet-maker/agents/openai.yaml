@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 桌宠制作器"
+  short_description: "从角色概念或参考图制作可安装的 Codex 动画桌宠"
+  default_prompt: "使用 $codex-pet-maker，根据我的角色描述制作并校验一个可安装的 Codex 动画桌宠。"

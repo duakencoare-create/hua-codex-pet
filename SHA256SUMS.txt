@@ -1,0 +1,2 @@
+fa28ff042fa68a7514a86a3a2416c53fc09a8914d5ce91f999d99279080fdb96  sleepy-boxer/pet.json
+618f70fe4feb08932ccde148155a86ca0ddee0fc68b3f89fa6a272d2134073fb  sleepy-boxer/spritesheet.png
